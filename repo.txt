@@ -1,0 +1,8 @@
+GITHUTB:	https://github.com/slazarov/python-signalr-client
+
+Install & Run:
+	python3.7 -m venv .
+	source bin/activate
+	pip install signalr-client-aio
+	python main.py
+	deactivate
